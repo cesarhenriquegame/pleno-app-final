@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Aplicativo Pleno em Cristo",
+  "description": "Um portal moderno e acessível para a igreja, com rádio online, cultos ao vivo, área de membros e integração com IA para devocionais diários.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
